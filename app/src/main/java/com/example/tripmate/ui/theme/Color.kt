@@ -10,8 +10,8 @@ val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
 
-val MainCyanBackground = Color(0xFF00EAFF) // Fond cyan
-val MainBlackText = Color(0xFF000000)      // Texte noir
+val MainCyanBackground = Color(0xFF087B94) // Fond cyan
+val MainBlackText = Color(0xFFFFFFFF)      // Texte blanc
 
 val DestinationTagBackground = Color(0xFF087B94)
 val DestinationTagText = Color(0xFFFFFFFF)

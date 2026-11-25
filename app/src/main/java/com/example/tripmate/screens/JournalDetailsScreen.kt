@@ -149,7 +149,7 @@ style = MaterialTheme.typography.bodyLarge,
                             painter = painterResource(R.drawable.ic_delete),
                             contentDescription = "Supprimer le journal",
                             tint = MaterialTheme.colorScheme.error,
-                            modifier = Modifier.size(36.dp),
+                            modifier = Modifier.size(48.dp),
                         )
                     }
                     IconButton(
@@ -161,7 +161,7 @@ style = MaterialTheme.typography.bodyLarge,
                             painter = painterResource(R.drawable.ic_edit),
                             contentDescription = "Modifier le journal",
                             tint = MaterialTheme.colorScheme.primary,
-                            modifier = Modifier.size(36.dp),
+                            modifier = Modifier.size(48.dp),
                         )
                     }
                 }

@@ -41,7 +41,6 @@ fun TripAppScaffold(
                     if (showBack) { // Sur certains écrans, on affiche le titre à droite pour laisser de la place au bouton de retour
                         Row(
                             modifier = Modifier.fillMaxWidth(),
-                            horizontalArrangement = Arrangement.End,
                         ) {
                             Text(
                                 text = "TripMate",
